@@ -11,3 +11,4 @@ else:
   print("The number you entered is a Even number")
 
 #modification2
+print("Run the program again to test another number")
